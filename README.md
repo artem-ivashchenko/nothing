@@ -2,7 +2,7 @@ Landing page project "Nothing" is devoted to the captivating realm of digital de
 Through intuitively designed and stylish interface, we showcase the latest models and provide
 detailed information about their functionalities.
 
-Stack: HTML, CSS, SCSS;
+Stack: HTML, CSS, SCSS, BEM;
 
 Preview: https://artem-ivashchenko.github.io/nothing/
 
