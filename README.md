@@ -4,7 +4,6 @@ detailed information about their functionalities.
 
 Stack: 
 - HTML
-- CSS
 - SCSS
 - BEM
 
